@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8OV2aGZCKux7UjvDx2kSl5Ev0z1740bPFszTievssEOL5M830JMRdqihBN/US+UvJUmxjQrmQllobEPQmOiTpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\G748\\source\\repos\\BestBuyApplication\\CommonLibs\\CommonLibs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\G748\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

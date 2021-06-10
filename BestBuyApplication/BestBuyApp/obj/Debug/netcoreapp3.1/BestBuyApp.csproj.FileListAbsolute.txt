@@ -1,0 +1,17 @@
+C:\Users\G748\source\repos\BestBuyApplication\BestBuyApp\bin\Debug\netcoreapp3.1\BestBuyApp.exe
+C:\Users\G748\source\repos\BestBuyApplication\BestBuyApp\obj\Debug\netcoreapp3.1\BestBuyApp.csprojAssemblyReference.cache
+C:\Users\G748\source\repos\BestBuyApplication\BestBuyApp\obj\Debug\netcoreapp3.1\BestBuyApp.AssemblyInfoInputs.cache
+C:\Users\G748\source\repos\BestBuyApplication\BestBuyApp\obj\Debug\netcoreapp3.1\BestBuyApp.AssemblyInfo.cs
+C:\Users\G748\source\repos\BestBuyApplication\BestBuyApp\bin\Debug\netcoreapp3.1\BestBuyApp.deps.json
+C:\Users\G748\source\repos\BestBuyApplication\BestBuyApp\bin\Debug\netcoreapp3.1\BestBuyApp.runtimeconfig.json
+C:\Users\G748\source\repos\BestBuyApplication\BestBuyApp\bin\Debug\netcoreapp3.1\BestBuyApp.runtimeconfig.dev.json
+C:\Users\G748\source\repos\BestBuyApplication\BestBuyApp\bin\Debug\netcoreapp3.1\BestBuyApp.dll
+C:\Users\G748\source\repos\BestBuyApplication\BestBuyApp\bin\Debug\netcoreapp3.1\BestBuyApp.pdb
+C:\Users\G748\source\repos\BestBuyApplication\BestBuyApp\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\G748\source\repos\BestBuyApplication\BestBuyApp\bin\Debug\netcoreapp3.1\CommonLibs.dll
+C:\Users\G748\source\repos\BestBuyApplication\BestBuyApp\bin\Debug\netcoreapp3.1\CommonLibs.pdb
+C:\Users\G748\source\repos\BestBuyApplication\BestBuyApp\obj\Debug\netcoreapp3.1\BestBuyApp.csproj.CoreCompileInputs.cache
+C:\Users\G748\source\repos\BestBuyApplication\BestBuyApp\obj\Debug\netcoreapp3.1\BestBuyApp.csproj.CopyComplete
+C:\Users\G748\source\repos\BestBuyApplication\BestBuyApp\obj\Debug\netcoreapp3.1\BestBuyApp.dll
+C:\Users\G748\source\repos\BestBuyApplication\BestBuyApp\obj\Debug\netcoreapp3.1\BestBuyApp.pdb
+C:\Users\G748\source\repos\BestBuyApplication\BestBuyApp\obj\Debug\netcoreapp3.1\BestBuyApp.genruntimeconfig.cache
