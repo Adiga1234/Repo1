@@ -1,0 +1,12 @@
+{
+  "name": "MI mobile",
+  "type": "Mobile",
+  "price": 100,
+  "shipping": 10,
+  "upc": "Best Mobile",
+  "description": "Best MI Mobile",
+  "manufacturer": "string",
+  "model": "string",
+  "url": "string",
+  "image": "string"
+}
